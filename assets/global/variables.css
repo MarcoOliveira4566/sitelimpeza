@@ -1,0 +1,11 @@
+:root {
+    --cor-branco: #ffffff;
+    --cor-branco-azulado: #0b70aa;
+    --cor-azul: #2E8CAD;
+    --cor-azul-claro: #2EBAEB;
+    --cor-azul-escuro: #94D3EA;
+    --cor-preto: #000000;
+
+    --regular: 'poppins-regular';
+    --bold: 'poppins-bold';
+}
